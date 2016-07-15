@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance Url="Lists/Shippers" Description="Shippers" OnQuickLaunch="TRUE" Title="Shippers">
+    <DataSource>
+      <Property Name="LobSystemInstance" Value="nw" />
+      <Property Name="EntityNamespace" Value="NORTHWNDModel" />
+      <Property Name="Entity" Value="Shippers" />
+      <Property Name="SpecificFinder" Value="ReadSpecificShipper" />
+      <Property Name="MetadataCatalogFileName" Value="BDCMetadata.bdcm" />
+    </DataSource>
+  </ListInstance>
+</Elements>

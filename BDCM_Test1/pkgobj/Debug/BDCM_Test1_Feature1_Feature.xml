@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Característica de la aplicación de SharePoint" Id="6865b64a-3c3b-46d7-aa9a-c0a87a294a4b" Scope="Web" Title="BDCM_Test1 Feature1">
+  <ElementManifests>
+    <ElementManifest Location="Pages\Elements.xml" />
+    <ElementFile Location="Pages\Default.aspx" />
+    <ElementManifest Location="Scripts\Elements.xml" />
+    <ElementFile Location="Scripts\App.js" />
+    <ElementFile Location="Scripts\jquery-1.8.2.min.js" />
+    <ElementFile Location="Scripts\jquery-1.8.2.js" />
+    <ElementFile Location="Scripts\jquery-1.8.2.intellisense.js" />
+    <ElementManifest Location="Content\Elements.xml" />
+    <ElementFile Location="Content\App.css" />
+    <ElementManifest Location="Images\Elements.xml" />
+    <ElementFile Location="Images\AppIcon.png" />
+    <ElementManifest Location="External Content Types\Elements.xml" />
+    <ElementManifest Location="Shippers\Elements.xml" />
+  </ElementManifests>
+</Feature>

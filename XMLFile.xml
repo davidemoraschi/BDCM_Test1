@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xml:base="http://mvc.syncfusion.com/Services/Northwnd.svc/" xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+  <id>http://mvc.syncfusion.com/Services/Northwnd.svc/Suppliers</id>
+  <title type="text">Suppliers</title>
+  <updated>2013-09-28T14:07:23Z</updated>
+  <link rel="self" title="Suppliers" href="Suppliers" />
+  <entry>
+    <id>http://mvc.syncfusion.com/Services/Northwnd.svc/Suppliers(1)</id>
+    <category term="NORTHWNDModel.Supplier" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <link rel="edit" title="Supplier" href="Suppliers(1)" />
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Products" type="application/atom+xml;type=feed" title="Products" href="Suppliers(1)/Products" />
+    <title />
+    <updated>2013-09-28T14:07:23Z</updated>
+    <author>
+      <name />
+    </author>
+    <content type="application/xml">
+      <m:properties>
+        <d:SupplierID m:type="Edm.Int32">1</d:SupplierID>
+        <d:CompanyName>Exotic Liquids</d:CompanyName>
+        <d:ContactName>Charlotte Cooper</d:ContactName>
+        <d:ContactTitle>Purchasing Manager</d:ContactTitle>
+        <d:Address>49 Gilbert St.</d:Address>
+        <d:City>London</d:City>
+        <d:Region m:null="true" />
+        <d:PostalCode>EC1 4SD</d:PostalCode>
+        <d:Country>UK</d:Country>
+        <d:Phone>(171) 555-2222</d:Phone>
+        <d:Fax m:null="true" />
+        <d:HomePage m:null="true" />
+      </m:properties>
+    </content>
+  </entry>
+</feed>

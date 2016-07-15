@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="776114fd-90e8-4f60-94db-7489f00fe07e" 
+        solutionId="776114fd-90e8-4f60-94db-7489f00fe07e" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="BDCM_Test1"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="6865b64a-3c3b-46d7-aa9a-c0a87a294a4b" />
+  </features>
+</package>

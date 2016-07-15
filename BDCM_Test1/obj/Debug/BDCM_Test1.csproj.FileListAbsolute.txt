@@ -1,0 +1,4 @@
+C:\Users\Davide\Dropbox\SOURCES\BDCM_Test1\BDCM_Test1\bin\Debug\BDCM_Test1.pdb
+C:\Users\Davide\Dropbox\SOURCES\BDCM_Test1\BDCM_Test1\obj\Debug\BDCM_Test1.dll
+C:\Users\Davide\Dropbox\SOURCES\BDCM_Test1\BDCM_Test1\obj\Debug\BDCM_Test1.pdb
+C:\Users\Davide\Dropbox\SOURCES\BDCM_Test1\BDCM_Test1\obj\Debug\BDCM_Test1.csprojResolveAssemblyReference.cache
